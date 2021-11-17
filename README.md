@@ -1,4 +1,4 @@
-                                                                          ##Looker DataTable Dashboard
+##Looker DataTable Dashboard
 
 ### Purpose:
 
@@ -16,4 +16,4 @@
 
 -   When the user inputs the query slug for their desired query, the application will return a rendered Data Table with the data from their query and provided a better dashboard experience than one would get by parsing a .csv file
 
-                                                ##This project is still under construction. Please check back for updates!
+##This project is still under construction. Please check back for updates!
